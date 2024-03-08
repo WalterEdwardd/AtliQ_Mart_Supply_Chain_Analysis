@@ -27,11 +27,8 @@ Create the metrics according to the metrics list. Create a dashboard according t
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/57f72a56-b312-4f3e-931a-9a14404ec2d9)
 
 ## Some Major Insights
-All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
-On an average, orders are delayed 0.42 days from the agreed date of delivery
-Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time
-Is it because we are not estimating the right delivery date?
-Is it because we are receiving more orders than expected?
-Ghee, curd and butter products are most delayed to deliver.
-There is no noticeable improvements in any of the key metrics in the last few months
-There is a huge gap in IF% for most of the customers. Is it because of less production?
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/34e5469c-5ba7-4a60-9add-705478a43ee1)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/ace96972-19df-4529-85ae-04147fab2041)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/e70a2d2e-c2c6-4049-b217-d38362c5047c)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/36c01933-77f7-48c3-af90-49d2f9b4dea3)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/bde9b5e5-c1be-4124-a04a-6df87295e34b)
