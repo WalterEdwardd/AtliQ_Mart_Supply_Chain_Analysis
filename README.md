@@ -15,6 +15,17 @@ Create the metrics according to the metrics list. Create a dashboard according t
 ## Data Model
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/28515b53-93ae-40c8-8562-dbd263bdae2a)
 
+## Dashboard
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/e9afb629-9d2e-45e5-92cf-755cd288ae0a)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/2fc2d4cc-02e2-4070-994b-70bb91d0e4a4)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/abad3d24-61ea-4621-ac2c-45466748e48c)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/d5de0922-a09e-455c-b984-d2cbef1293c6)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/45a4b174-aa2c-4e84-8ec8-239a22008968)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/7348b303-2597-49da-94ee-30d9552c5f96)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/152720a5-146f-4a80-ab9e-2cc06fae5bd1)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/cd9cdd35-7e2c-453b-8149-968396335d38)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/57f72a56-b312-4f3e-931a-9a14404ec2d9)
+
 ## Some Major Insights
 All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
 On an average, orders are delayed 0.42 days from the agreed date of delivery
