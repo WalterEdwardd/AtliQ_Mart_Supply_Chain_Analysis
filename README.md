@@ -16,15 +16,16 @@ Create the metrics according to the metrics list. Create a dashboard according t
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/28515b53-93ae-40c8-8562-dbd263bdae2a)
 
 ## Dashboard
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/e9afb629-9d2e-45e5-92cf-755cd288ae0a)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/2fc2d4cc-02e2-4070-994b-70bb91d0e4a4)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/abad3d24-61ea-4621-ac2c-45466748e48c)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/d5de0922-a09e-455c-b984-d2cbef1293c6)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/45a4b174-aa2c-4e84-8ec8-239a22008968)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/7348b303-2597-49da-94ee-30d9552c5f96)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/152720a5-146f-4a80-ab9e-2cc06fae5bd1)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/cd9cdd35-7e2c-453b-8149-968396335d38)
-![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/57f72a56-b312-4f3e-931a-9a14404ec2d9)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/1f7921e0-255e-49d7-86b1-9c68eac9db47)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/f3ce6ec1-92f9-45fb-8c9a-652b6a446ddd)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/e8654b35-83e9-44a8-972d-26e54d99c7ba)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/86dd1de7-7800-44a1-b68d-b93a339c0e20)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/51d6ca4e-5fe7-4d2e-909a-680ed3dec30e)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/9e4bb1d1-6ebf-400d-b279-747e8ac82524)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/0dc170de-de15-40b0-b8e8-86d3b26393c8)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/a26bc4a6-9102-44fe-bb69-660582a70e96)
+![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/93404c0f-ee4c-495a-8e01-9f31dfb858a3)
+
 
 ## Some Major Insights
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/34e5469c-5ba7-4a60-9add-705478a43ee1)
