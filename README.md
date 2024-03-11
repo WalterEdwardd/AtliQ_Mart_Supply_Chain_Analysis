@@ -28,7 +28,7 @@ Create the metrics according to the metrics list. Create a dashboard according t
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/93404c0f-ee4c-495a-8e01-9f31dfb858a3)
 
 
-## Some Major Insights
+## Insights and Key Findings
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/34e5469c-5ba7-4a60-9add-705478a43ee1)
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/ace96972-19df-4529-85ae-04147fab2041)
 ![image](https://github.com/WalterEdwardd/AtliQ_Mart_Supply_Chain_Analysis/assets/128374617/e70a2d2e-c2c6-4049-b217-d38362c5047c)
